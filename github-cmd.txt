@@ -1,0 +1,4 @@
+1. Add all files in local repository - git add . (you can use your own file name instead of .)
+2. Add a commit message - git commit -m "your message"
+3. Push the changes - git push origin (branch name) (e.g master)
+4. Add new branch - git checkout -b (branch name)
